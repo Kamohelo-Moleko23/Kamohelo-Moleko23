@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kamo! <br/><a href="https://github.com/">I.T Technician</a>, <a href="https://www.linkedin.com/in/kamohelo-moleko/">Network Engineer</a>
+<h1>Hi, I'm Kamo! <br/><a href="https://github.com/">System Administrator</a>, <a href="https://www.linkedin.com/in/kamohelo-moleko/">DevOps Engineer</a>
 
 <h2>👨‍💻 I.T Support/ Helpdesk Projects:</h2>
 
